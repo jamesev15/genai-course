@@ -1,3 +1,6 @@
+# colocar en el terminal la variable de entorno
+# export TAVILY_API_KEY=<api-key>
+
 import requests
 import os
 
