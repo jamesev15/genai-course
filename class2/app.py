@@ -1,7 +1,7 @@
 import streamlit as st
 import uuid
 import time
-from class2.llms import chat
+from llms import chat
 
 st.title('Chat con LLMs')
 
