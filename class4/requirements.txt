@@ -1,3 +1,4 @@
+langchain==0.3.1
 langchain-community==0.3.1
 pypdf==4.2.0
 ununstructured[pdf]==0.16.17
