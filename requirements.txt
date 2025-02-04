@@ -9,5 +9,7 @@ transformers~=4.48.2
 sentence-transformers~=3.4.1
 einops~=0.8.0
 langchain~=0.3.17
+langchain-community~=0.3.16
 langchain-qdrant~=0.2.0
 langchain-openai~=0.3.3
+pypdf~=5.2.0
