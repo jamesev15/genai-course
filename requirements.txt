@@ -13,3 +13,6 @@ langchain-community~=0.3.16
 langchain-qdrant~=0.2.0
 langchain-openai~=0.3.3
 pypdf~=5.2.0
+nltk~=3.9.1
+matplotlib~=3.10.0
+langserve[all]~=0.3.1
